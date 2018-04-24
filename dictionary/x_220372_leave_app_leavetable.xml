@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="LeaveTable" max_length="40" name="x_220372_leave_app_leavetable" sizeclass="3" type="collection">
+        <element label="From Date" mandatory="true" max_length="40" name="from_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="al" label="Leave Type" max_length="40" name="leave_type" type="string">
+            <choice>
+                <element label="Loss Of Pay" sequence="0" value="lop"/>
+                <element label="Comp Off" sequence="1" value="co"/>
+                <element label="Annual Leave" sequence="2" value="al"/>
+            </choice>
+        </element>
+        <element default="0" label="Total Leave Days" max_length="40" name="total_leave_days" type="integer"/>
+        <element label="To Date" mandatory="true" max_length="40" name="to_date" type="glide_date"/>
+        <element label="Requested for" mandatory="true" max_length="32" name="u_requested_for" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Requested for email" mandatory="true" max_length="160" name="u_requested_for_email" type="string"/>
+        <element label="when needed" mandatory="true" max_length="40" name="u_when_needed" type="glide_date_time"/>
+    </element>
+</database>

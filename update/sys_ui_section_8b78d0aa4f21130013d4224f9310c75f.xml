@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="8b78d0aa4f21130013d4224f9310c75f" sys_domain="global" table="x_220372_leave_app_leavetable" version="3" view="User">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 08:10:58</sys_created_on>
+            <sys_id>1b7814aa4f21130013d4224f9310c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_220372_leave_app_leavetable" sys_domain="global" view="c778d0aa4f21130013d4224f9310c75c">8b78d0aa4f21130013d4224f9310c75f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 08:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 08:10:58</sys_created_on>
+            <sys_id>9b7814aa4f21130013d4224f9310c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_220372_leave_app_leavetable" sys_domain="global" view="c778d0aa4f21130013d4224f9310c75c">8b78d0aa4f21130013d4224f9310c75f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 08:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>leave_type</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 08:10:58</sys_created_on>
+            <sys_id>1f7814aa4f21130013d4224f9310c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_220372_leave_app_leavetable" sys_domain="global" view="c778d0aa4f21130013d4224f9310c75c">8b78d0aa4f21130013d4224f9310c75f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 08:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 08:10:58</sys_created_on>
+            <sys_id>9f7814aa4f21130013d4224f9310c775</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_220372_leave_app_leavetable" sys_domain="global" view="c778d0aa4f21130013d4224f9310c75c">8b78d0aa4f21130013d4224f9310c75f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 08:10:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_when_needed</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 08:10:58</sys_created_on>
+            <sys_id>137814aa4f21130013d4224f9310c776</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_220372_leave_app_leavetable" sys_domain="global" view="c778d0aa4f21130013d4224f9310c75c">8b78d0aa4f21130013d4224f9310c75f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 08:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_requested_for_email</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 08:10:58</sys_created_on>
+            <sys_id>937814aa4f21130013d4224f9310c776</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_220372_leave_app_leavetable" sys_domain="global" view="c778d0aa4f21130013d4224f9310c75c">8b78d0aa4f21130013d4224f9310c75f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 08:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 08:10:58</sys_created_on>
+            <sys_id>177814aa4f21130013d4224f9310c776</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_220372_leave_app_leavetable" sys_domain="global" view="c778d0aa4f21130013d4224f9310c75c">8b78d0aa4f21130013d4224f9310c75f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 08:10:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 08:10:58</sys_created_on>
+            <sys_id>977814aa4f21130013d4224f9310c776</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_220372_leave_app_leavetable" sys_domain="global" view="c778d0aa4f21130013d4224f9310c75c">8b78d0aa4f21130013d4224f9310c75f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 08:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 08:10:58</sys_created_on>
+            <sys_id>1b7814aa4f21130013d4224f9310c776</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_220372_leave_app_leavetable" sys_domain="global" view="c778d0aa4f21130013d4224f9310c75c">8b78d0aa4f21130013d4224f9310c75f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 08:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_220372_leave_app_leavetable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-21 08:10:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8b78d0aa4f21130013d4224f9310c75f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_220372_leave_app_leavetable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Leave Application" source="x_220372_leave_app">ed0e4ce24f21130013d4224f9310c79d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Leave Application">ed0e4ce24f21130013d4224f9310c79d</sys_scope>
+            <sys_update_name>sys_ui_section_8b78d0aa4f21130013d4224f9310c75f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-21 08:10:58</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="User" name="User">c778d0aa4f21130013d4224f9310c75c</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

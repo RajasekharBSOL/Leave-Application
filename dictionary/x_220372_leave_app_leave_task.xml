@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element audit="true" extends="task" label="Leave Task" max_length="40" name="x_220372_leave_app_leave_task" sizeclass="3" type="collection"/>
+</database>
